@@ -2,7 +2,9 @@
 
 # pixavatar
 
-Generate GitHub-style avatars in Python: mirror-symmetric identicons, letter glyphs and custom pixel art. Deterministic seeds, full color control, transparent backgrounds, any output size.
+Generate GitHub-style avatars in Python: mirror-symmetric identicons, letter glyphs and custom pixel art.
+
+**Live demo: https://pius-x.github.io/pixavatar/** — runs entirely in the browser, no install needed. Deterministic seeds, full color control, transparent backgrounds, any output size.
 
 ![examples](examples/sheet.png)
 

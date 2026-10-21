@@ -2,7 +2,9 @@
 
 # pixavatar
 
-用 Python 生成 GitHub 风格头像：左右镜像的 identicon、字母头像、自定义像素图案。支持固定种子复现、配色、透明背景，输出尺寸随意。
+用 Python 生成 GitHub 风格头像：左右镜像的 identicon、字母头像、自定义像素图案。
+
+**在线试用：https://pius-x.github.io/pixavatar/** — 纯浏览器生成，无需安装。支持固定种子复现、配色、透明背景，输出尺寸随意。
 
 ![examples](examples/sheet.png)
 
